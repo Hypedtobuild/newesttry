@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x664f1333263334C2DFaCa33c12363B04B12153d4",
+  "SCAN_LINK": "https://etherscan.io/address/0x664f1333263334c2dfaca33c12363b04b12153d4",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Okay Doodle Bears",
+  "SYMBOL": "Okay Doodle Bear",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 75000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/okay-doodle-bears-official",
+  "SHOW_BACKGROUND": false
+}
